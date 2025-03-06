@@ -1,0 +1,5 @@
+img/
+train_labels.csv
+test_labels.csv
+certificate_model.keras
+model.keras
