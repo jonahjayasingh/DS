@@ -1,0 +1,5 @@
+full_df.csv
+model.h5
+model.pkl
+ODIR-5K/*
+preprocessed_images/*
