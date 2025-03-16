@@ -1,0 +1,3 @@
+original_images/*
+class_indices.json
+hand_sign_model.h5
